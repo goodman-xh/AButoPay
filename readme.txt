@@ -1,6 +1,6 @@
 === AButoPay ===
-Contributors: your-username
-Donate link: https://your-site.com/donate
+Contributors: AButoPaye
+Donate link: https://github.com/goodman-xh/AButoPay/edit/main/readme.txt
 Tags: usdt, trc20, payment, woocommerce, crypto
 Requires at least: 5.0
 Tested up to: 6.4
